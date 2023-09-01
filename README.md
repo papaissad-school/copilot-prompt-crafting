@@ -3,4 +3,4 @@
 
 A self-guided, self-paced exercise Repo for Copilot Prompt-Crafting
 
-## How to communicate right with Copilot & Copilt Chat
+## How to communicate efficiently with Copilot & Copilt Chat
