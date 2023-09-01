@@ -1,0 +1,30 @@
+{
+    "$schema": "https://aka.ms/codetour-schema",
+    "name": "Copilot Chat Navigation",
+    "title": "Copilot Chat Navigation",
+    "steps": [
+      {
+        "title": "Interact with Copilot Chat",
+        "file": "calculator.js",
+        "description": "Some instructions! \n\nPress Next to continue 👇! ",
+        "line": 0,
+        "contents": ""
+      },
+      {
+        "title": "Use Copilot Chat Topics",
+        "file": "calculator.js",
+        "description": "Some instructions! \n\nPress Next to continue 👇! ",
+        "selection": {
+          "start": {
+            "line": 0,
+            "character": 0
+          },
+          "end": {
+            "line": 10,
+            "character": 0
+          }
+        },
+        "contents": ""
+      }
+    ]
+  }
