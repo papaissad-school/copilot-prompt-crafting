@@ -1,0 +1,12 @@
+{
+    "$schema": "https://aka.ms/codetour-schema",
+    "title": "Instructions",
+    "steps": [
+      {
+        "file": "first-steps.md",
+        "description": "Some instructions! \n\nPress Next to continue 👇! ",
+        "line": 0,
+        "contents": ""
+      }
+    ]
+  }
