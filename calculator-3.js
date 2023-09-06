@@ -1,5 +1,1 @@
-// A class to calculates many numbers and returns the result
-
-class Calculator {
-    
-
+// A class to calculate many numbers and return the result, with protection against divide by zero

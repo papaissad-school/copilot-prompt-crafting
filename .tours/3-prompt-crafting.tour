@@ -1,28 +1,28 @@
 {
-    "$schema": "https://aka.ms/codetour-schema",
-    "name": "Prompt Crafting",
-    "title": "Prompt Crafting",
-    "steps": [
-      {
-        "title": "Zero Shot Prompting",
-        "file": "calculator.js",
-        "description": "Some instructions! \n\nPress Next to continue 👇! ",
-        "line": 0,
-        "contents": ""
-      },
-      {
-        "title": "One Shot Prompting",
-        "file": "calculator.js",
-        "description": "Some instructions! \n\nPress Next to continue 👇! ",
-        "line": 0,
-        "contents": ""
-      },
-      {
-        "title": "Few Shot Prompting",
-        "file": "calculator.js",
-        "description": "Some instructions! \n\nPress Next to continue 👇! ",
-        "line": 0,
-        "contents": ""
-      }
-    ]
-  }
+  "$schema": "https://aka.ms/codetour-schema",
+  "name": "Prompt Crafting",
+  "title": "Prompt Crafting",
+  "steps": [
+    {
+      "title": "Zero Shot Prompting",
+      "file": "calculator-1.js",
+      "description": "Some instructions! \n\nPress Next to continue 👇! ",
+      "line": 0,
+      "contents": ""
+    },
+    {
+      "title": "One Shot Prompting",
+      "file": "calculator-2.js",
+      "description": "More specific instructions for the calculator \n\nPress Next to continue 👇! ",
+      "line": 0,
+      "contents": ""
+    },
+    {
+      "title": "Few Shot Prompting",
+      "file": "calculator-3.js",
+      "description": "More specific instructions for the calculator and an edgecase description\n\nPress Next to continue 👇! ",
+      "line": 0,
+      "contents": ""
+    }
+  ]
+}

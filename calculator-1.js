@@ -1,2 +1,1 @@
-// A class to calculates numbers and returns the result
-
+// A class to calculate two numbers and return the result
