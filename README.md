@@ -1,12 +1,69 @@
 ![copilot](docs/images/copilot.png)
 # Copilot Prompt Crafting
 
-A self-guided, self-paced exercise Repo for Copilot Prompt-Crafting
+An exercise Repo for Copilot Prompt-Crafting, to complement the Copilot Fundamentals Training (L100)
 
-⚠️ **Note:** This training requires [Visual Studio Code](https://code.visualstudio.com) with the ['Code Tour' Extension](https://marketplace.visualstudio.com/items?itemName=vsls-contrib.codetour). We recommend to run this with [GitHub Codespaces](https://github.com/features/codespaces)
+## Learning Objectives
 
-## How to communicate efficiently with Copilot & Copilot Chat
+Practice some Prompt Crafting with GitHub Copilot Chat.
 
-### Step 1 
+---
 
-- open the [calculator.js](calculator.js) file
+## Prerequisites
+
+- 
+
+---
+
+## DEMO 1
+
+### Zero-shot 
+
+```
+Write me unit tests for all the operations in my calculator.js file
+```
+
+### One-Shot
+ ```
+ Write me unit tests for all the operations in my calculator.js file
+Use the following example: test(‘adds 1 + 2 to equal 3’, () => ( expect(calculate(1, 2 ‘+’)).toBe(3); });
+```
+---
+
+## DEMO 2 
+
+### Zero-shot 
+```
+Can you create an HTML calculator for me?
+```
+
+### One-Shot
+
+```
+Can you create an HTML calculator for me? Use the following example:  
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Calculator</title>
+    <link rel="stylesheet" href="style.css">
+  </head>
+<body> 
+```
+
+---
+
+## DEMO 3
+
+### Zero-shot 
+
+```
+Can you write me the code for a snake game?
+```
+
+### One-Shot
+
+```
+Can you write me the code for a snake game? 
+Example: Ensure that there is a leaderboard mechanic
+```
+
