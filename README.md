@@ -66,8 +66,9 @@ Can you write me the code for a snake game?
 Can you write me the code for a snake game? 
 Example: Ensure that there is a leaderboard mechanic
 ```
+---
 
-## Demo 4 - [Leetcode](leetcode.com) 
+## DEMO 4 - [Leetcode](leetcode.com) 
 
 - Login to [Leetcode](leetcode.com) and pick one of the exercises
 - Copy the full description in to GitHub Copilot Chat, with the request for a specific language.
