@@ -72,4 +72,4 @@ Example: Ensure that there is a leaderboard mechanic
 
 - Login to [Leetcode](leetcode.com) and pick one of the exercises
 - Copy the full exercise description in to GitHub Copilot Chat, with the request for a specific language.
-- Submit that code to  [Leetcode](leetcode.com), let's if it succeeds and with what score.
+- Submit the suggested code to [Leetcode](leetcode.com), let's see if it succeeds and with what score.
